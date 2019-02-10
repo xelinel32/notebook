@@ -1,0 +1,36 @@
+D:\4Kurs\Project\TellPhoneBook\TellPhoneBook\bin\Debug\TellPhoneBook.exe.config
+D:\4Kurs\Project\TellPhoneBook\TellPhoneBook\bin\Debug\TellPhoneBook.exe
+D:\4Kurs\Project\TellPhoneBook\TellPhoneBook\bin\Debug\TellPhoneBook.pdb
+D:\4Kurs\Project\TellPhoneBook\TellPhoneBook\obj\Debug\TellPhoneBook.csprojResolveAssemblyReference.cache
+D:\4Kurs\Project\TellPhoneBook\TellPhoneBook\obj\Debug\TellPhoneBook.TellPhoneBook.resources
+D:\4Kurs\Project\TellPhoneBook\TellPhoneBook\obj\Debug\TellPhoneBook.Properties.Resources.resources
+D:\4Kurs\Project\TellPhoneBook\TellPhoneBook\obj\Debug\TellPhoneBook.csproj.GenerateResource.Cache
+D:\4Kurs\Project\TellPhoneBook\TellPhoneBook\obj\Debug\TellPhoneBook.csproj.CoreCompileInputs.cache
+D:\4Kurs\Project\TellPhoneBook\TellPhoneBook\obj\Debug\TellPhoneBook.exe
+D:\4Kurs\Project\TellPhoneBook\TellPhoneBook\obj\Debug\TellPhoneBook.pdb
+D:\4Kurs\Project\TellPhoneBook\TellPhoneBook\obj\Debug\TellPhoneBook.Help.resources
+D:\4Kurs\Project\TellPhoneBook\TellPhoneBook\obj\Debug\TellPhoneBook.Info.resources
+D:\4Kurs\TellPhoneBook\TellPhoneBook\bin\Debug\TellPhoneBook.exe.config
+D:\4Kurs\TellPhoneBook\TellPhoneBook\bin\Debug\TellPhoneBook.exe
+D:\4Kurs\TellPhoneBook\TellPhoneBook\bin\Debug\TellPhoneBook.pdb
+D:\4Kurs\TellPhoneBook\TellPhoneBook\obj\Debug\TellPhoneBook.Help.resources
+D:\4Kurs\TellPhoneBook\TellPhoneBook\obj\Debug\TellPhoneBook.Info.resources
+D:\4Kurs\TellPhoneBook\TellPhoneBook\obj\Debug\TellPhoneBook.TellPhoneBook.resources
+D:\4Kurs\TellPhoneBook\TellPhoneBook\obj\Debug\TellPhoneBook.Properties.Resources.resources
+D:\4Kurs\TellPhoneBook\TellPhoneBook\obj\Debug\TellPhoneBook.csproj.GenerateResource.Cache
+D:\4Kurs\TellPhoneBook\TellPhoneBook\obj\Debug\TellPhoneBook.csproj.CoreCompileInputs.cache
+D:\4Kurs\TellPhoneBook\TellPhoneBook\obj\Debug\TellPhoneBook.exe
+D:\4Kurs\TellPhoneBook\TellPhoneBook\obj\Debug\TellPhoneBook.pdb
+D:\4Kurs\TellPhoneBook\TellPhoneBook\obj\Debug\TellPhoneBook.csprojResolveAssemblyReference.cache
+D:\4Kurs\Курсовой проект\TellPhoneBook\TellPhoneBook\bin\Debug\TellPhoneBook.exe.config
+D:\4Kurs\Курсовой проект\TellPhoneBook\TellPhoneBook\bin\Debug\TellPhoneBook.exe
+D:\4Kurs\Курсовой проект\TellPhoneBook\TellPhoneBook\bin\Debug\TellPhoneBook.pdb
+D:\4Kurs\Курсовой проект\TellPhoneBook\TellPhoneBook\obj\Debug\TellPhoneBook.csprojResolveAssemblyReference.cache
+D:\4Kurs\Курсовой проект\TellPhoneBook\TellPhoneBook\obj\Debug\TellPhoneBook.Help.resources
+D:\4Kurs\Курсовой проект\TellPhoneBook\TellPhoneBook\obj\Debug\TellPhoneBook.Info.resources
+D:\4Kurs\Курсовой проект\TellPhoneBook\TellPhoneBook\obj\Debug\TellPhoneBook.TellPhoneBook.resources
+D:\4Kurs\Курсовой проект\TellPhoneBook\TellPhoneBook\obj\Debug\TellPhoneBook.Properties.Resources.resources
+D:\4Kurs\Курсовой проект\TellPhoneBook\TellPhoneBook\obj\Debug\TellPhoneBook.csproj.GenerateResource.Cache
+D:\4Kurs\Курсовой проект\TellPhoneBook\TellPhoneBook\obj\Debug\TellPhoneBook.csproj.CoreCompileInputs.cache
+D:\4Kurs\Курсовой проект\TellPhoneBook\TellPhoneBook\obj\Debug\TellPhoneBook.exe
+D:\4Kurs\Курсовой проект\TellPhoneBook\TellPhoneBook\obj\Debug\TellPhoneBook.pdb
